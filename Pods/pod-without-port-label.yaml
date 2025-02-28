@@ -4,5 +4,5 @@ metadata:
   name: webserver
 spec:
   containers:
-   - name: web  
-    image: nginx:alpine 
+    - name: web 
+      image: nginx:alpine 
